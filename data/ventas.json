@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 1,
+    "producto_id": 1,
+    "cantidad": 2,
+    "precio_unitario": 5.0,
+    "fecha": "2026-10-16"
+  },
+  {
+    "id": 2,
+    "cliente_id": 1,
+    "producto_id": 1,
+    "cantidad": 2,
+    "precio_unitario": 5.0,
+    "fecha": "2026-10-16"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos",
+    "apellido": "Moran",
+    "email": "cm@gmail.com",
+    "telefono": "099999999",
+    "ciudad": "Milagro"
+  }
+]
